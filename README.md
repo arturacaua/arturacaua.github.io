@@ -1,5 +1,4 @@
 # Artur Acauã - Portfólio
-<img src="profile.jpg" alt="Foto de perfil Artur Acauã" width="200" />
 
 ## Início
 **Nome:** Artur Acauã  
